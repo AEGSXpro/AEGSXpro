@@ -1,16 +1,14 @@
-## Hi there 👋
+# AEGSXpro
 
-<!--
-**AEGSXpro/AEGSXpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity resources focused on session security, phishing , cookies.**
 
-Here are some ideas to get you started:
+AEGSXpro provides cybersecurity tolles  designed to users, teams, and businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+* Session security s
+* Cookie and browser security 
+* Phishing 
+* Active session hygiene
+* Authorized red-team 
+
